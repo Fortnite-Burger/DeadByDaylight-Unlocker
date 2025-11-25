@@ -68,32 +68,32 @@
       {
         "nodeData": [
           {
-            "contentId": "Item_Camper_MedKit_Random",
+            "contentId": "Item_Camper_Flashlight02",
             "nodeId": 101,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Key_002",
+            "contentId": "Addon_FogVial_SlowRelease",
             "nodeId": 102,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_K36MagicItem_Bracers",
+            "contentId": "CreamChalkPouch",
             "nodeId": 103,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_Firecracker_Flashbang",
+            "contentId": "Addon_Flashlight_006",
             "nodeId": 104,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Key_001",
+            "contentId": "Item_Camper_Flashlight",
             "nodeId": 105,
             "state": "Collected"
           },
           {
-            "contentId": "FragrantCrispleafAmaranth",
+            "contentId": "Item_Camper_MedKit",
             "nodeId": 106,
             "state": "Collected"
           }
@@ -102,62 +102,62 @@
       {
         "nodeData": [
           {
-            "contentId": "Addon_Flashlight_002",
+            "contentId": "ADDON_toolbox_socketswivels",
             "nodeId": 201,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_MedKit_Random",
+            "contentId": "CreamChalkPouch",
             "nodeId": 202,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Toolbox_004",
+            "contentId": "Item_Camper_K36MagicItem_Bracers",
             "nodeId": 203,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Key_005",
+            "contentId": "Addon_Firecracker_MediumFuse",
             "nodeId": 204,
             "state": "Collected"
           },
           {
-            "contentId": "ADDON_flashlight_rubbergrip",
+            "contentId": "Item_Camper_JerryCan_Spring2025",
             "nodeId": 205,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Map_001",
+            "contentId": "Item_Camper_K36MagicItem_VecnaHand",
             "nodeId": 206,
             "state": "Collected"
           },
           {
-            "contentId": "ADDON_medkit_abdominaldressing",
+            "contentId": "Addon_FogVial_DenseFogExtract",
             "nodeId": 207,
             "state": "Collected"
           },
           {
-            "contentId": "FragrantBogLaurel",
+            "contentId": "Item_Camper_Map_Spring2024",
             "nodeId": 208,
             "state": "Collected"
           },
           {
-            "contentId": "BogLaurelSachet",
+            "contentId": "ADDON_medkit_gauzeroll",
             "nodeId": 209,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_K36MagicItem_Bracers",
+            "contentId": "Item_Camper_Medkit05",
             "nodeId": 210,
             "state": "Collected"
           },
           {
-            "contentId": "SealedEnvelope",
+            "contentId": "Item_Camper_Flashlight_Anniversary2020",
             "nodeId": 211,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_Flashlight04",
+            "contentId": "ADDON_medkit_surgicalsuture",
             "nodeId": 212,
             "state": "Collected"
           }
@@ -166,92 +166,92 @@
       {
         "nodeData": [
           {
-            "contentId": "FragrantCrispleafAmaranth",
+            "contentId": "Addon_Firecracker_MagnesiumPowder",
             "nodeId": 301,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Medkit_BlightedSyringe",
+            "contentId": "FreshCrispleafAmaranth",
             "nodeId": 302,
             "state": "Collected"
           },
           {
-            "contentId": "ADDON_flashlight_lonflifebattery",
+            "contentId": "Addon_Toolbox_004",
             "nodeId": 303,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Flashlight_006",
+            "contentId": "FragrantCrispleafAmaranth",
             "nodeId": 304,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_MechanicsToolbox",
+            "contentId": "Item_Camper_Flashlight",
             "nodeId": 305,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Medkit_003",
+            "contentId": "Addon_Map_004",
             "nodeId": 306,
             "state": "Collected"
           },
           {
-            "contentId": "SweetWilliamSachet",
+            "contentId": "Addon_FogVial_DenseFogExtract",
             "nodeId": 307,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Toolbox_004",
+            "contentId": "Addon_Map_005",
             "nodeId": 308,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_K36MagicItem_Boots",
+            "contentId": "Addon_Toolbox_007",
             "nodeId": 309,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Survivor_CalamariContaminationAntidote",
+            "contentId": "Addon_Firecracker_BuckShot",
             "nodeId": 310,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Map_008",
+            "contentId": "Addon_Firecracker_LargePack",
             "nodeId": 311,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_MedKit04",
+            "contentId": "Addon_Firecracker_GunPowder",
             "nodeId": 312,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Flashlight_008",
+            "contentId": "Item_Camper_FadedMap",
             "nodeId": 313,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Toolbox_002",
+            "contentId": "Addon_Toolbox_004",
             "nodeId": 314,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_MedKit04",
+            "contentId": "Addon_Toolbox_001",
             "nodeId": 315,
             "state": "Collected"
           },
           {
-            "contentId": "Item_Camper_Toolbox_Random",
+            "contentId": "Item_Camper_Flashlight03",
             "nodeId": 316,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Key_005",
+            "contentId": "Item_Camper_BrokenKey",
             "nodeId": 317,
             "state": "Collected"
           },
           {
-            "contentId": "Addon_Map_001",
+            "contentId": "BlackSaltStatuette",
             "nodeId": 318,
             "state": "Collected"
           }
@@ -260,7 +260,7 @@
       {
         "nodeData": [
           {
-            "contentId": "ADDON_flashlight_oddbulb",
+            "contentId": "Item_Camper_Flashlight_Anniversary2022",
             "nodeId": 401,
             "state": "Collected"
           }
@@ -410,27 +410,11 @@
       "quantity": 100
     },
     {
-      "itemId": "Item_Camper_AnniversaryToolbox",
-      "quantity": 100
-    },
-    {
-      "itemId": "Item_Blighted_Serum",
-      "quantity": 100
-    },
-    {
       "itemId": "Item_Camper_Flashlight04",
       "quantity": 100
     },
     {
       "itemId": "Item_Camper_Medkit05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Item_Camper_Firecracker_Anniversary2019",
-      "quantity": 100
-    },
-    {
-      "itemId": "Item_Camper_Firecracker_WinterEvent",
       "quantity": 100
     },
     {
@@ -442,723 +426,19 @@
       "quantity": 100
     },
     {
-      "itemId": "Addon_K24Power_1",
+      "itemId": "Item_Camper_AnniversaryToolbox",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K24Power_2",
+      "itemId": "Item_Camper_Firecracker_WinterEvent",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K24Power_3",
+      "itemId": "Item_Camper_Firecracker_Anniversary2019",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K24Power_4",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_5",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_6",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_7",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_8",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_9",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K24Power_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_WorkshopGrease",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_RazorWires",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_JohnMedicalFile",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_ShatteredSyringe",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_VideoTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_CombatStraps",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_UtilityBlades",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_FaceMask",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_RustyAttachments",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_SlowReleasingToxin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_BagofGears",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_CrateofGears",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_JigsawsSketch",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_JigsawsAnnotatedPlan",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_AmandasLetter",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_TamperedTimer",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_LastWill",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_InterlockingRazor",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_AmandasSecret",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_ReverseBearTrap_RuleSetN2",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_RottenPumpkin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_BlackHeart",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_RatLiver",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_RatTail",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_StickyLining",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_ViscousWebbing",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_RottenGreenTripe",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_MewsGuts",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_BarbsGlasses",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_ElevensSoda",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_ThornyVines",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_BrassCaseLighter",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_VioletWaxCap",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_DeerLung",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_LifeguardWhistle",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_VermillionWebcap",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_UpsideDownResin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_UnknownEgg",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_LerproseLichen",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Demogorgon_RedMoss",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K33_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_RustyHead",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_BegrimedHead",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_YewSeedBrew",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_YewSeedConcoction",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_CoarseStone",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_FineStone",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_LeatherLoop",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_InfantryBelt",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_BerusToxin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_VenomousConcoction",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_IridescentHead",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_BandagedHaft",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_OakHaft",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_DeerskinGloves",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_ShinyPin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_AmanitaToxin",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_GlowingConcoction",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_PungentFiale",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_MannaGrassBraid",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Hatchet_FlowerBabushka",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_BlondHair",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_BoyfriendsMemo",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_DeadRabbit",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_FragrantTuftOfHair",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_GlassFragment",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_HairBow",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_HairBrush",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_JMyersMemorial",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_Jewelry",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_JewelryBox",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_JudithsJournal",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_JudithsTombstone",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_LockOfHair",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_MemorialFlower",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_MirrorShard",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_ReflectiveFragment",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_ScratchedMirror",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_TackyEarrings",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_TombstonePiece",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Stalker_VanityMirror",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_OrderClassI",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_CalmClassI",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_NanmuCatapult",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_MoldyElectrode",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_OrderClassII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_DisciplineClassII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_CalmClassII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_RestraintClassII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_PolishedElectrode",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_TigerFangCharm",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_DisciplineClassIII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_RestraintClassIII",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_HighStimulusElectrode",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_Obedience_MuYisNotes",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_OrderMuYisNotes",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_DisciplineMuYisNotes",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_CalmMuYisNotes",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_RestraintMuYisNotes",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_JadeCharm",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Spark_IridescentGeneral",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_TheOnryo_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K25Power_20",
+      "itemId": "Item_Blighted_Serum",
       "quantity": 100
     },
     {
@@ -1242,646 +522,6 @@
       "quantity": 100
     },
     {
-      "itemId": "ADDON_Frenzy_FriendshipBracelet",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_MischiefList",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_SmileyFacePin",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_ScratchedRuler",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_MuralSketch",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_NeverSleepPills",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_EtchedRuler",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_JuliesMixTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_DefacedSmileyPin",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_SusiesMixTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_StolenSketchBook",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_TheLegionPin",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_NastyBlade",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_JoeysMixTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_FilthyBlade",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_FranksMixTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_ColdDirt",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_StabWoundsStudy",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_FumingMixTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Frenzy_IridescentButton",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_WalleyesMatchbook",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_DriversLicense",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_OlsensAddressBook",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_CheapCologne",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_HeadlinesCutouts",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_TelephotoLens",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_KnifeBeltClip",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_MarkedMap",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_LastingPerfume",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_ReusableCinchStraps",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_VictimsDetailedRoutine",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_ChewedPen",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_OlsensJournal",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_NightVisionMonocular",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_OlsensWallet",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_DropLegKnifeSheath",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_OutdoorSecurityCamera",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_LeatherKnifeSheath",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_Philly",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Ghost_TheGhostFaceCaughtOnTape",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_001",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_002",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_003",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_004",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_005",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_006",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_007",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_008",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_009",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_010",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_011",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Blinker_012",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_AtaxicRespiration",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_BadManLastBreath",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_DullBracelet",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_HeavyPanting",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_JennerLastBreath",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_KavanaghLastBreath",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_Matchbox",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Lastbreath_SpasmodicBreath",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K39_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K34_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K41_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K28_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_RottingRope",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_BlackenedToenail",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_CrackedSakazuki",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_PaperLantern",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_ChildsWoodenSword",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_PolishedMaedate",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_ChippedSaihai",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_InkLion",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_BloodySash",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_KanaianzenTalisman",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_WoodenOniMask",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_YamaokaSashimono",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_ScalpedTopknot",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_ShatteredWakizashi",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_LionFang",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_SplinteredHull",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_TearSoakedTenugui",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_AkitosCrutch",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_YamaokaFamilyCrest",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Kanobo_RenjirosBloodyGlove",
-      "quantity": 100
-    },
-    {
       "itemId": "ADDON_TormentMode_LeadRing",
       "quantity": 100
     },
@@ -1959,326 +599,6 @@
     },
     {
       "itemId": "ADDON_TormentMode_IridescentSealofMetatron",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K32_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_ChainsawFile",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_SparkPlug",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_VegetableOil",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_PrimerBulb",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_LongGuideBar",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_DepthGaugeRake",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_HomemadeMuffler",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_GrislyChains",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_SpeedLimiter",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_ShopLubricant",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_KnifeScratches",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_Chili",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_BeastsMarks",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_CarburatorGuide",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_LightChassis",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_TheGrease",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_RustedChain",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_AwardWinningChili",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_BegrimedChain",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_LFChainsaw_IridescentFlesh",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_GardenRake",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_PrototypeClaws",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_PaintThinner",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_SheepBlock",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_CatBlock",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_UnicornBlock",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_ZBlock",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_WoolShirt",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_GreenDress",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_BlueDress",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_KidsDrawing",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_NancysSketch",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_NancysMasterpiece",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_ClassPhoto",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_PillBottle",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_RedPaintBrush",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_BlackBox",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_SwingChains",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_Rope",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_DreamInducer_JumpRope",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_01",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_02",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_03",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_04",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_05",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_06",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_07",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_08",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_09",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K35_20",
       "quantity": 100
     },
     {
@@ -2362,6 +682,646 @@
       "quantity": 100
     },
     {
+      "itemId": "Addon_Blinker_001",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_002",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_003",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_004",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_005",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_006",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_007",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_008",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_009",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_010",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_011",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Blinker_012",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_AtaxicRespiration",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_BadManLastBreath",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_DullBracelet",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_HeavyPanting",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_JennerLastBreath",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_KavanaghLastBreath",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_Matchbox",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Lastbreath_SpasmodicBreath",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K33_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_GardenRake",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_PrototypeClaws",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_PaintThinner",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_SheepBlock",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_CatBlock",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_UnicornBlock",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_ZBlock",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_WoolShirt",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_GreenDress",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_BlueDress",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_KidsDrawing",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_NancysSketch",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_NancysMasterpiece",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_ClassPhoto",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_PillBottle",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_RedPaintBrush",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_BlackBox",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_SwingChains",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_Rope",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_DreamInducer_JumpRope",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_ChainsawFile",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_SparkPlug",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_VegetableOil",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_PrimerBulb",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_LongGuideBar",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_DepthGaugeRake",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_HomemadeMuffler",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_GrislyChains",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_SpeedLimiter",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_ShopLubricant",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_KnifeScratches",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_Chili",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_BeastsMarks",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_CarburatorGuide",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_LightChassis",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_TheGrease",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_RustedChain",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_AwardWinningChili",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_BegrimedChain",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_LFChainsaw_IridescentFlesh",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K35_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_WalleyesMatchbook",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_DriversLicense",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_OlsensAddressBook",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_CheapCologne",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_HeadlinesCutouts",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_TelephotoLens",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_KnifeBeltClip",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_MarkedMap",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_LastingPerfume",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_ReusableCinchStraps",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_VictimsDetailedRoutine",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_ChewedPen",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_OlsensJournal",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_NightVisionMonocular",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_OlsensWallet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_DropLegKnifeSheath",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_OutdoorSecurityCamera",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_LeatherKnifeSheath",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_Philly",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Ghost_TheGhostFaceCaughtOnTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_WorkshopGrease",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_RazorWires",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_JohnMedicalFile",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_ShatteredSyringe",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_VideoTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_CombatStraps",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_UtilityBlades",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_FaceMask",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_RustyAttachments",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_SlowReleasingToxin",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_BagofGears",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_CrateofGears",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_JigsawsSketch",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_JigsawsAnnotatedPlan",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_AmandasLetter",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_TamperedTimer",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_LastWill",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_InterlockingRazor",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_AmandasSecret",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_ReverseBearTrap_RuleSetN2",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K39_20",
+      "quantity": 100
+    },
+    {
       "itemId": "Addon_K40_01",
       "quantity": 100
     },
@@ -2442,83 +1402,723 @@
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_01",
+      "itemId": "Addon_Demogorgon_RottenPumpkin",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_02",
+      "itemId": "Addon_Demogorgon_BlackHeart",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_03",
+      "itemId": "Addon_Demogorgon_RatLiver",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_04",
+      "itemId": "Addon_Demogorgon_RatTail",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_05",
+      "itemId": "Addon_Demogorgon_StickyLining",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_06",
+      "itemId": "Addon_Demogorgon_ViscousWebbing",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_07",
+      "itemId": "Addon_Demogorgon_RottenGreenTripe",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_08",
+      "itemId": "Addon_Demogorgon_MewsGuts",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_09",
+      "itemId": "Addon_Demogorgon_BarbsGlasses",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_10",
+      "itemId": "Addon_Demogorgon_ElevensSoda",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_11",
+      "itemId": "Addon_Demogorgon_ThornyVines",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_12",
+      "itemId": "Addon_Demogorgon_BrassCaseLighter",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_13",
+      "itemId": "Addon_Demogorgon_VioletWaxCap",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_14",
+      "itemId": "Addon_Demogorgon_DeerLung",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_15",
+      "itemId": "Addon_Demogorgon_LifeguardWhistle",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_16",
+      "itemId": "Addon_Demogorgon_VermillionWebcap",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_17",
+      "itemId": "Addon_Demogorgon_UpsideDownResin",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_18",
+      "itemId": "Addon_Demogorgon_UnknownEgg",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_19",
+      "itemId": "Addon_Demogorgon_LerproseLichen",
       "quantity": 100
     },
     {
-      "itemId": "Addon_K36_20",
+      "itemId": "Addon_Demogorgon_RedMoss",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K28_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_BlondHair",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_BoyfriendsMemo",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_DeadRabbit",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_FragrantTuftOfHair",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_GlassFragment",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_HairBow",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_HairBrush",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_JMyersMemorial",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_Jewelry",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_JewelryBox",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_JudithsJournal",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_JudithsTombstone",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_LockOfHair",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_MemorialFlower",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_MirrorShard",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_ReflectiveFragment",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_ScratchedMirror",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_TackyEarrings",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_TombstonePiece",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Stalker_VanityMirror",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_RottingRope",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_BlackenedToenail",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_CrackedSakazuki",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_PaperLantern",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_ChildsWoodenSword",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_PolishedMaedate",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_ChippedSaihai",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_InkLion",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_BloodySash",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_KanaianzenTalisman",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_WoodenOniMask",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_YamaokaSashimono",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_ScalpedTopknot",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_ShatteredWakizashi",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_LionFang",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_SplinteredHull",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_TearSoakedTenugui",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_AkitosCrutch",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_YamaokaFamilyCrest",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Kanobo_RenjirosBloodyGlove",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K25Power_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_OrderClassI",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_CalmClassI",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_NanmuCatapult",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_MoldyElectrode",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_OrderClassII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_DisciplineClassII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_CalmClassII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_RestraintClassII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_PolishedElectrode",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_TigerFangCharm",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_DisciplineClassIII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_RestraintClassIII",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_HighStimulusElectrode",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_Obedience_MuYisNotes",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_OrderMuYisNotes",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_DisciplineMuYisNotes",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_CalmMuYisNotes",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_RestraintMuYisNotes",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_JadeCharm",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Spark_IridescentGeneral",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K41_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_HealingSalve",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_PrayerTabletFragment",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_OlibanumIncense",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_LimestoneSeal",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_PrayerApple",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_ProphylacticAmulet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_PotentTincture",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_EmeticPotion",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_HematiteSeal",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_IncensedOintment",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_InfectedEmetic",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_AshenApple",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_RubbingOil",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_ExorcismAmulet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_VileEmetic",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_DevoteesAmulet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_WorshipTablet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_SeveredToe",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_BlackIncense",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Plague_IridescentSeal",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K34_20",
       "quantity": 100
     },
     {
@@ -2602,83 +2202,483 @@
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_HealingSalve",
+      "itemId": "Addon_Hatchet_RustyHead",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_PrayerTabletFragment",
+      "itemId": "Addon_Hatchet_BegrimedHead",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_OlibanumIncense",
+      "itemId": "Addon_Hatchet_YewSeedBrew",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_LimestoneSeal",
+      "itemId": "Addon_Hatchet_YewSeedConcoction",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_PrayerApple",
+      "itemId": "Addon_Hatchet_CoarseStone",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_ProphylacticAmulet",
+      "itemId": "Addon_Hatchet_FineStone",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_PotentTincture",
+      "itemId": "Addon_Hatchet_LeatherLoop",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_EmeticPotion",
+      "itemId": "Addon_Hatchet_InfantryBelt",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_HematiteSeal",
+      "itemId": "Addon_Hatchet_BerusToxin",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_IncensedOintment",
+      "itemId": "Addon_Hatchet_VenomousConcoction",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_InfectedEmetic",
+      "itemId": "Addon_Hatchet_IridescentHead",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_AshenApple",
+      "itemId": "Addon_Hatchet_BandagedHaft",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_RubbingOil",
+      "itemId": "Addon_Hatchet_OakHaft",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_ExorcismAmulet",
+      "itemId": "Addon_Hatchet_DeerskinGloves",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_VileEmetic",
+      "itemId": "Addon_Hatchet_ShinyPin",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_DevoteesAmulet",
+      "itemId": "Addon_Hatchet_AmanitaToxin",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_WorshipTablet",
+      "itemId": "Addon_Hatchet_GlowingConcoction",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_SeveredToe",
+      "itemId": "Addon_Hatchet_PungentFiale",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_BlackIncense",
+      "itemId": "Addon_Hatchet_MannaGrassBraid",
       "quantity": 100
     },
     {
-      "itemId": "Addon_Plague_IridescentSeal",
+      "itemId": "Addon_Hatchet_FlowerBabushka",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_1",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_2",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_3",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_4",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_5",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_6",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_7",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_8",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_9",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K24Power_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K36_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_FriendshipBracelet",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_MischiefList",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_SmileyFacePin",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_ScratchedRuler",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_MuralSketch",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_NeverSleepPills",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_EtchedRuler",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_JuliesMixTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_DefacedSmileyPin",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_SusiesMixTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_StolenSketchBook",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_TheLegionPin",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_NastyBlade",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_JoeysMixTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_FilthyBlade",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_FranksMixTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_ColdDirt",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_StabWoundsStudy",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_FumingMixTape",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Frenzy_IridescentButton",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K32_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_01",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_02",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_03",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_04",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_05",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_06",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_07",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_08",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_09",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_TheOnryo_20",
       "quantity": 100
     },
     {
@@ -3254,86 +3254,6 @@
       "quantity": 100
     },
     {
-      "itemId": "Addon_Chainsaw_002",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_011",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_005",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_001",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_003",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_DeathEngravings",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_012",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_004",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_ThompsonMoonshine",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_007",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_006",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_008",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_LightChassis",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_010",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_Chainsaw_009",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_ThompsonMix",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_HomemadeMuffler",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_HillbillyChainsaw_IridescentBrick",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_CarburatorGuide",
-      "quantity": 100
-    },
-    {
-      "itemId": "ADDON_Chainsaw_DoomEngravings",
-      "quantity": 100
-    },
-    {
       "itemId": "Addon_Harpoon_RicketyChain",
       "quantity": 100
     },
@@ -3411,6 +3331,166 @@
     },
     {
       "itemId": "Addon_Harpoon_IridescentCoin",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_1",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_2",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_3",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_4",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_5",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_6",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_7",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_8",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_9",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_10",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_11",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_12",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_13",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_14",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_15",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_16",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_17",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_18",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_19",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_K22Power_20",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_Zori",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_ShiawaseAmulet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_GiftedBambooComb",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_OrigamiCrane",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_KaiunTalisman",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_WhiteHairRibbon",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_MuddySportsDayCap",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_JuniperBonsai",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_RinsBrokenWatch",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_DirtyUwabaki",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_KatsumoriTalisman",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_BloodyHairBrooch",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_RustyFlute",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_KatanaTsuba",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_YakuyokeAmulet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_DriedCherryBlossom",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_PrayerBeadsBracelet",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_WakizashiSaya",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_MotherDaughterRing",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_PhaseWalker_FathersGlasses",
       "quantity": 100
     },
     {
@@ -3574,6 +3654,86 @@
       "quantity": 100
     },
     {
+      "itemId": "Addon_Chainsaw_002",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_011",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_005",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_001",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_003",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_DeathEngravings",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_012",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_004",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_ThompsonMoonshine",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_007",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_006",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_008",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_LightChassis",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_010",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_Chainsaw_009",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_ThompsonMix",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_HomemadeMuffler",
+      "quantity": 100
+    },
+    {
+      "itemId": "Addon_HillbillyChainsaw_IridescentBrick",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_CarburatorGuide",
+      "quantity": 100
+    },
+    {
+      "itemId": "ADDON_Chainsaw_DoomEngravings",
+      "quantity": 100
+    },
+    {
       "itemId": "Addon_K26Power_01",
       "quantity": 100
     },
@@ -3651,86 +3811,6 @@
     },
     {
       "itemId": "Addon_K26Power_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_1",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_2",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_3",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_4",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_5",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_6",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_7",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_8",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_9",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_10",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_11",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_12",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_13",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_14",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_15",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_16",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_17",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_18",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_19",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_K22Power_20",
       "quantity": 100
     },
     {
@@ -3891,86 +3971,6 @@
     },
     {
       "itemId": "Addon_Trickster_20",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_Zori",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_ShiawaseAmulet",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_GiftedBambooComb",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_OrigamiCrane",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_KaiunTalisman",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_WhiteHairRibbon",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_MuddySportsDayCap",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_JuniperBonsai",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_RinsBrokenWatch",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_DirtyUwabaki",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_KatsumoriTalisman",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_BloodyHairBrooch",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_RustyFlute",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_KatanaTsuba",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_YakuyokeAmulet",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_DriedCherryBlossom",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_PrayerBeadsBracelet",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_WakizashiSaya",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_MotherDaughterRing",
-      "quantity": 100
-    },
-    {
-      "itemId": "Addon_PhaseWalker_FathersGlasses",
       "quantity": 100
     },
     {
@@ -4222,11 +4222,7 @@
       "quantity": 100
     },
     {
-      "itemId": "Anniversary2022Offering",
-      "quantity": 100
-    },
-    {
-      "itemId": "Anniversary2023Offering",
+      "itemId": "Halloween2022Offering",
       "quantity": 100
     },
     {
@@ -4234,11 +4230,11 @@
       "quantity": 100
     },
     {
-      "itemId": "Halloween2022Offering",
+      "itemId": "Anniversary2024Offering",
       "quantity": 100
     },
     {
-      "itemId": "Spring2024Offering",
+      "itemId": "Anniversary2022Offering",
       "quantity": 100
     },
     {
@@ -4246,31 +4242,11 @@
       "quantity": 100
     },
     {
-      "itemId": "Anniversary2024Offering",
+      "itemId": "Anniversary2023Offering",
       "quantity": 100
     },
     {
-      "itemId": "SummerOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "Anniversary2021Offering",
-      "quantity": 100
-    },
-    {
-      "itemId": "Jigsawpiece",
-      "quantity": 100
-    },
-    {
-      "itemId": "HalloweenOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "ThePiedPiper",
-      "quantity": 100
-    },
-    {
-      "itemId": "StrodeRealtyKey",
+      "itemId": "Spring2024Offering",
       "quantity": 100
     },
     {
@@ -4278,7 +4254,11 @@
       "quantity": 100
     },
     {
-      "itemId": "KenyaThemeOffering",
+      "itemId": "StrodeRealtyKey",
+      "quantity": 100
+    },
+    {
+      "itemId": "Halloween2021Offering",
       "quantity": 100
     },
     {
@@ -4286,11 +4266,55 @@
       "quantity": 100
     },
     {
-      "itemId": "WormholeThemeOffering",
+      "itemId": "Anniversary2020Offering",
+      "quantity": 100
+    },
+    {
+      "itemId": "HalloweenOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "Anniversary2021Offering",
+      "quantity": 100
+    },
+    {
+      "itemId": "ThePiedPiper",
+      "quantity": 100
+    },
+    {
+      "itemId": "SummerOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "QuantumThemeOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "TheLastMask",
       "quantity": 100
     },
     {
       "itemId": "UkraineThemeOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "EclipseThemeOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "Jigsawpiece",
+      "quantity": 100
+    },
+    {
+      "itemId": "WalesThemeOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "JapaneseCountrySide",
+      "quantity": 100
+    },
+    {
+      "itemId": "KenyaThemeOffering",
       "quantity": 100
     },
     {
@@ -4314,30 +4338,6 @@
       "quantity": 100
     },
     {
-      "itemId": "IonThemeOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "WalesThemeOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "EclipseThemeOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "QuantumThemeOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "Halloween2021Offering",
-      "quantity": 100
-    },
-    {
-      "itemId": "TheLastMask",
-      "quantity": 100
-    },
-    {
       "itemId": "MeteorThemeOffering",
       "quantity": 100
     },
@@ -4346,15 +4346,15 @@
       "quantity": 100
     },
     {
+      "itemId": "WormholeThemeOffering",
+      "quantity": 100
+    },
+    {
+      "itemId": "IonThemeOffering",
+      "quantity": 100
+    },
+    {
       "itemId": "UmbraThemeOffering",
-      "quantity": 100
-    },
-    {
-      "itemId": "Anniversary2020Offering",
-      "quantity": 100
-    },
-    {
-      "itemId": "JapaneseCountrySide",
       "quantity": 100
     }
   ],
